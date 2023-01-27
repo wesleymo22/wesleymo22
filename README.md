@@ -12,7 +12,7 @@
 
 [![](./src/header_.png)](#)
 
-> <b>Apaixonado por tecnologia e sempre buscando melhorar cada vez mais, venho me especializando em .NET e Angular para um dia me tornar um grande desenvolvedor Web
+> <b>Apaixonado por tecnologia e sempre buscando melhorar cada vez mais, venho me especializando em desenvolvimento front-end nas tecnologias HTML CSS Javascript e React para um dia me tornar um grande desenvolvedor Web
 
 ## 🛠️ Tech Stack:
     
